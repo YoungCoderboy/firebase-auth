@@ -13,7 +13,6 @@
   flex-direction: column;
 }
 
-input,
 .signup-button,
 .login-button {
   margin: 5px 0px;
@@ -25,6 +24,10 @@ input,
 }
 
 /**/
+.heading {
+  margin: 15px;
+  color: aliceblue;
+}
 
 .home-container {
   display: flex; /* Center content vertically */
